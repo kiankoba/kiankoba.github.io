@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kian Kobaayshi",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://kiankoba.github.io/images/20170826_161247.jpg",
+    "email": "kiank@hawaii.edu",
+    "phone": "",
+    "website": "https://kiankoba.github.io",
+    "summary": "I am a student at the University of Hawaii at Manoa, studying for a B.S. in Computer Science. I also study the Japanese Language, and I expect to graduate in Fall 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "2",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kiankoba",
+        "url": "http://github.com/kiankoba"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kiankobayashi",
+        "url": "http://linkedin.com/in/kiankobayashi"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "network security",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "software engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "translation and interpretation",
       "keywords": [
       ]
     }
