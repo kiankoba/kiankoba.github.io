@@ -93,7 +93,7 @@ A group of students gathering at a station on the last official day of the new y
 <img src="../images/9日1月2.jpg">
 <img src="../images/10日1月.jpg">
 <img src="../images/10日1月2.jpg">
-</dov>
+</div>
 
 9日1月、２、10日１月、２
 Many pictures of people of various age groups in various arcades. In America the arcade has largely died out, but in Japan, arcades are still going very strong (although to be fair, pachinko, the gambling version of arcades, are doing much better). Japanese people of various age groups and of both genders are able to enjoy arcades, which can easily be seen here. 
