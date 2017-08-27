@@ -88,7 +88,7 @@ As February draws near, the number of studying middle schoolers does as well. Ju
 7日1月
 A group of students gathering at a station on the last official day of the new year.
 
-<img class = "ui medium images">
+<div class = "ui medium images">
 <img src="../images/9日1月.jpg">
 <img src="../images/9日1月2.jpg">
 <img src="../images/10日1月.jpg">
