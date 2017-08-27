@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/1634012le.jpg
 title: Photography Final Project
-permalink: projects/micromouse
+permalink: projects/Photography
 date: 2016
 labels:
   - Photography
