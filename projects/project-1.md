@@ -15,6 +15,8 @@ For this project, I was required to make my own theme or topic, take photographs
 
 For this project, I took many photos over the course of an entire semester, and then culled the photos I had until I had the ones that I would use for the project. I also attached the journal to the files. For the actual project, I printed out the photos and turned in a sort of portfolio, however, I no longer have the portfolio, but I do have the raw images and text that I used, which is displayed here.
 
+As someone who is much more used to STEM work and logical and mathematical thinking, this project helped me to develop my creative brain, which I feel was a valuable experience.
+
 <strong>Photography Project</strong>
 
 I would like to first start off my journal by pointing out that it was definitely not as easy to take the photos that I did as I thought it would be. For one thing, my goal was to take pictures of Japanese people in their free time, and so in order to depict them doing whatever it is that they would be doing in their free time, the photos would need to be candid photos. I also didn’t really want to include faces of people who didn’t want their faces in my pictures, even though I’m not actually publishing this anywhere. These two problems made it much more difficult to take photos than I had originally anticipated, and to be completely honest I feel like it would’ve been much easier to take photos of something like scenery, or at least something that didn’t include candid photos of people. But I digress. 
