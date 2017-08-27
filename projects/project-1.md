@@ -60,7 +60,7 @@ Enjoying beer, yakitori, and smoking in true Japanese fashion. Alcohol, as I men
 27日12月
 A picture of my host brother, Oto-kun, holding a snowball at a rest stop on the way to visit his grandparents in Yamagata. Other Japanese children and their parents can also be seen in the background. Just like American children, many Japanese children enjoy playing in the snow. Still not many differences to see here besides the fact that Japanese people think that using a carrot for a snowman’s nose is strange.
 
-<img class="ui medium images">
+<div class="ui medium images">
 <img src="../images/31日12月.jpg">
 <img src="../images/1日1月.jpg">
 </div>
