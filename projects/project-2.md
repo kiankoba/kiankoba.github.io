@@ -5,7 +5,7 @@ published: true
 image: images/SAJapan.jpg
 title: Study Abroad Japan
 permalink: projects/SAJapan
-date: 2016
+date: 2016-2017
 labels:
   - Japan
   - Language
