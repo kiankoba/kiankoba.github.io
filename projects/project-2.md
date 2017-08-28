@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/SAJapan.jpg
-title: Study Abroad Japan
+title: StudyAbroadJapan
 permalink: projects/vacay
 date: 2015
 labels:
