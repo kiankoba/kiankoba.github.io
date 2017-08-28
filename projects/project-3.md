@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/SAJapan.jpg
 title: Study Abroad Japan
-permalink: /projects/SAJapan
+permalink: projects/SAJapan
 date: 2016-2017
 labels:
   - Japan
