@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/1634012le.jpg
+image: images/PhotographySQR.jpg
 title: Photography Final Project
 permalink: projects/Photography
 date: 2016
