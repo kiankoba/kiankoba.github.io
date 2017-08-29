@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/PhotographySQR.jpg
-title: Photography Final Project
+title: Photography Project
 permalink: projects/Photography
 date: 2016
 labels:
