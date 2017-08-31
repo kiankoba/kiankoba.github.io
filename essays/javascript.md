@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Stress Test \: Getting Used to the Flipped Classroom
+title: "Stress Test : Getting Used to the Flipped Classroom"
 date: 2017-08-30
 labels:
   - Software Engineering
