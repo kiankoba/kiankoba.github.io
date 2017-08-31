@@ -11,6 +11,8 @@ labels:
   - ICS 314
 ---
 
+<img class="ui centered fluid large image" src="../images/flippedclassroom.jpg">
+
 As a complete newcomer to JavaScript, I have to be honest and say that when I first looked at the schedule for my ICS 314 class, I was scared. I was expected to complete the entirety of a basic introduction to JavaScript on a website called freecodecamp.com, and then complete two times practice exercises in the two following days. If the warning from Professor Johnson hadn’t already been enough, this was my wake-up call that was telling me that this semester would require me to be on-point with managing my time and making sure that all of my homework was done on time. I have to say, I quite enjoy being able to view the schedule weeks in advance via the Morea Framework used by the ICS department at the University of Hawaii at Manoa, but at the same time, it’s a very scary thing—if one doesn’t pay attention to the schedule, one can very easily become overwhelmed in the blink of an eye.
 
 Nevertheless, in this first week of ICS 314, I have done my best to look ahead in order to complete my assignments on time. Luckily for me, JavaScript as a language is quite similar to Java, and so my previous knowledge with that language was indispensable when learning JavaScript. Although I was slightly thrown off at first by the lack of data types and the usage of var, let, and const in JavaScript, I quickly became used to notation, and my current opinion of JavaScript is that it is quite a useful language. Using .jsons to store data seems to be a very intuitive process, and, to my knowledge, JavaScript is one of the basic languages that almost every programmer knows, so I intend to further my knowledge in this regard. 
