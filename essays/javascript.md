@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - Learning
   - JavaScript
+  - ICS 314
 ---
 
 As a complete newcomer to JavaScript, I have to be honest and say that when I first looked at the schedule for my ICS 314 class, I was scared. I was expected to complete the entirety of a basic introduction to JavaScript on a website called freecodecamp.com, and then complete two times practice exercises in the two following days. If the warning from Professor Johnson hadn’t already been enough, this was my wake-up call that was telling me that this semester would require me to be on-point with managing my time and making sure that all of my homework was done on time. I have to say, I quite enjoy being able to view the schedule weeks in advance via the Morea Framework used by the ICS department at the University of Hawaii at Manoa, but at the same time, it’s a very scary thing—if one doesn’t pay attention to the schedule, one can very easily become overwhelmed in the blink of an eye.
