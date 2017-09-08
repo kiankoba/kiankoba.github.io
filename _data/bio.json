@@ -46,7 +46,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Coding Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
@@ -61,6 +61,14 @@
         "Windows",
         "Git/GitHub",
       ]
+    },
+    {
+      "name": "Languages",
+      "level":"",
+      "keywords":[
+        "English",
+        "Japanese",
+        ]
     }
   ],
   "education": [
