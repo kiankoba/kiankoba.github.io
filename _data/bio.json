@@ -50,10 +50,8 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
         "Javascript",
-        "Common Lisp"
       ]
     },
     {
@@ -62,7 +60,6 @@
       "keywords": [
         "Windows",
         "Git/GitHub",
-        "g++"
       ]
     }
   ],
