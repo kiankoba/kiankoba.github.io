@@ -73,12 +73,22 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2018)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "Present",
       "gpa": "3.29",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Obirin University, Tokyo, Japan",
+      "area": "Japanese Language (Study Abroad)",
+      "studyType": "",
+      "startDate": "2016-09-01",
+      "endDate": "2017-08-24",
+      "gpa": "",
       "courses": [
       ]
     }
