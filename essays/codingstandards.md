@@ -10,6 +10,8 @@ labels:
   - Language
 ---
 
+<img class="ui centered fluid large image" src="https://qph.ec.quoracdn.net/main-qimg-48ea75b5c27e3d4e7e3c57b798610bae">
+
 At just the mention of the words "coding standards," I can already hear the classic argument breaking out in my head: should code be indented with the tab key or with two presses of the spacebar? If you use the tab key, why don't you just set your tab key so that pressing it causes it to indent two spaces? Although this is a simple example, the point here still stands. Enforcing a universal coding standard would be extremely difficult, so what's the point? In reality, however, a perfect world with a universal standard for coding would be efficient beyond belief.
 
 <h3>What's so good about coding standards?</h3>
