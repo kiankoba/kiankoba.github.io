@@ -11,7 +11,7 @@ labels:
   - Design Patterns
 ---
 
-<img class="ui centered image" src="../images/knowledge.png">
+<img class="ui centered image" src="../images/knowledge.jpg">
 
 As humans, one of our greatest strengths is our knowledge. Unlike other animals, we have passed down generations and generations of knowledge, gradually pushing our species to the top of the food chain. With each new generation, new things are discovered, new technological advances are made, and the amount of collective knowledge that the human race possesses grows. It follows naturally that such knowledge also exists in the realm of computer science and, more specifically, software engineering. 
 
