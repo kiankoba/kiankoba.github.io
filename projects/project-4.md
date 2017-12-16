@@ -18,7 +18,7 @@ I worked in a group with three other students in order to create a website that 
 My main contributions to this project were the designing and implementing of the Add user to favorites, Report user, and reputation functions. The add user to favorites was designed so that any user that is the current user's favorite will show up on their home page. In addition, I also designed a way to (of course) remove any user from their favorites. The report user function allows a user to report another user, and also prompts them to input a reason as to why they are reporting that user. This information then appears on an admin-only page, where admins can view which users were reported by which users, and for what reasons. Finally, the reputation system is, in short, a ranking system. Users can give other users a positive rating, but not a negative rating. For every rating a user receives, his "Reputation" goes up by one, and the rankings of all users on the site can be viewed on a separate page.
 
 <figure>
-  <img class = "ui centered fluid large image" src="../images/search.jpg">
+  <img class = "ui centered fluid large image" src="../images/search.png">
 <figcaption>The search page, along with options for a user.</figcaption>
 </figure>
 
