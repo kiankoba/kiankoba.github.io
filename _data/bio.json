@@ -52,6 +52,9 @@
         "C",
         "Java",
         "Javascript",
+        "LISP",
+        "Intel x86 Assembly",
+        "Meteor",
       ]
     },
     {
@@ -95,11 +98,21 @@
   ],
   "work": [
     {
+      "company": "Yoshitsune",
+      "position": "Server",
+      "website": "",
+      "startDate": "2017-12-10",
+      "endDate": "Present",
+      "summary": "Server at Yoshitsune Restaurant",
+      "highlights": [
+      ]
+    },
+    {
       "company": "Yacchaba",
       "position": "Server",
       "website": "",
       "startDate": "2017-08-28",
-      "endDate": "Present",
+      "endDate": "2017-12-10",
       "summary": "Server at Yacchaba Restaurant",
       "highlights": [
       ]
