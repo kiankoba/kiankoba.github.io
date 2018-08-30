@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://kiankoba.github.io/images/20170826_161247.jpg",
     "email": "kiank@hawaii.edu",
-    "phone": "",
+    "phone": "808-266-0232",
     "website": "https://kiankoba.github.io",
     "summary": "I am a student at the University of Hawaii at Manoa, studying for a B.S. in Computer Science. I also study the Japanese Language, and I expect to graduate in Fall 2018.",
     "location": {
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "kiankobayashi",
-        "url": "http://linkedin.com/in/kiankobayashi"
+        "url": "http://github.com/kiankoba"
       }
     ]
   },
@@ -31,81 +31,57 @@
     {
       "name": "network security",
       "keywords": [
+        "software engineering",
+        "translation and interpretation",
+        "big data"
       ]
     },
     {
-      "name": "software engineering",
+      "name": "machine learning",
       "keywords": [
+        "internet of things"
       ]
     },
     {
-      "name": "translation and interpretation",
-      "keywords": [
-      ]
+      "name": "artificial intelligence",
+      "keywords": []
     }
   ],
   "skills": [
     {
       "name": "Coding Languages and Frameworks",
-      "level": "",
       "keywords": [
         "C",
         "Java",
-        "Javascript",
-        "LISP",
-        "Intel x86 Assembly",
-        "Meteor",
+        "JavaScript"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
       "keywords": [
         "Windows",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
-    },
-    {
-      "name": "Languages",
-      "level":"",
-      "keywords":[
-        "English",
-        "Japanese",
-        ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2018)",
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science  (expected Fall, 2018)",
       "studyType": "B.S.",
-      "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "3.29",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Obirin University, Tokyo, Japan",
-      "area": "Japanese Language",
-      "studyType": "Study Abroad",
-      "startDate": "2016-09-01",
-      "endDate": "2017-08-24",
-      "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "Yoshitsune",
+      "company": "Yoshitune",
       "position": "Server",
       "website": "",
       "startDate": "2017-12-10",
-      "endDate": "Present",
+      "endDate": "2018-06-30",
       "summary": "Server at Yoshitsune Restaurant",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "Yacchaba",
@@ -114,8 +90,7 @@
       "startDate": "2017-08-28",
       "endDate": "2017-12-10",
       "summary": "Server at Yacchaba Restaurant",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "company": "Tokyo Roki",
@@ -123,15 +98,14 @@
       "website": "http://www.roki.co.jp/en/",
       "startDate": "2017-02-28",
       "endDate": "2017-08-31",
-      "summary": "",
       "highlights": [
         "Converse in English and Japanese with Japanese workers",
         "Help Japanese workers with translations into and from English"
       ]
     }
-    
   ],
- 
+  "volunteer": [],
+  "awards": [],
   "references": [
     {
       "name": "Available upon request",
