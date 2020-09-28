@@ -115,7 +115,7 @@
       ]
     }
   ],
-  "awards": ["Hawaii Annual Code Challenge 2018 2nd Place"],
+  "awards": [ { "name": "Hawaii Annual Code Challenge 2018 2nd Place" } ],
   "references": [
     {
       "name": "Available upon request",
