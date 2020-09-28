@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Kian Kobayashi",
-    "label": "Student",
+    "label": "Software Developer",
     "picture": "https://kiankoba.github.io/images/20170826_161247.jpg",
     "email": "kiank@hawaii.edu",
-    "phone": "808-266-0232",
+    "phone": "808-551-3039",
     "website": "https://kiankoba.github.io",
-    "summary": "I am a student at the University of Hawaii at Manoa, studying for a B.S. in Computer Science. I also study the Japanese Language, and I expect to graduate in Fall 2018.",
+    "summary": "I am an experienced developer with a passion for efficiency.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "97305",
+      "city": "Salem",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Oregon"
     },
     "profiles": [
       {
@@ -53,7 +53,9 @@
       "keywords": [
         "C",
         "Java",
-        "JavaScript"
+        "JavaScript",
+        "SQL",
+        "Visual Basic"
       ]
     },
     {
@@ -67,15 +69,24 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science  (expected Fall, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "endDate": "Present",
+      "endDate": "2018",
       "courses": []
     }
   ],
   "work": [
     {
-      "company": "Yoshitune",
+      "company": "FAST Enterprises LLC",
+      "position": "Implementation Consultant",
+      "website": "",
+      "startDate": "2019-04-01",
+      "endDate": "Present",
+      "summary": "Developed software and consulted with clients on the financials team",
+      "highlights": ["Developed a system to track and manage dishonored payments"]
+    },
+    {
+      "company": "Yoshitsune",
       "position": "Server",
       "website": "",
       "startDate": "2017-12-10",
@@ -104,8 +115,7 @@
       ]
     }
   ],
-  "volunteer": [],
-  "awards": [],
+  "awards": ["Hawaii Annual Code Challenge 2018 2nd Place"],
   "references": [
     {
       "name": "Available upon request",
